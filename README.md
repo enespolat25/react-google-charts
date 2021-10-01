@@ -1,5 +1,7 @@
 # React Hooks veya Context ile Google Charts Grafikler Ekleme
 
+Bu projede React bir uygulamaya Google Charts Grafiklerin eklenmesi uygulanmıştır.
+
 [Demo](https://react-google-charts.netlify.app/)
 
 
